@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryDemo.Web", "RepositoryDemo.Web\RepositoryDemo.Web.csproj", "{BC565569-7D9E-4BCA-A02B-8F2BC1157D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryDemo.Data", "RepositoryDemo.Data\RepositoryDemo.Data.csproj", "{886BA9C5-E93F-447A-B9F5-56EA379F1A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryDemo.Data.Test", "RepositoryDemo.Data.Test\RepositoryDemo.Data.Test.csproj", "{D3ED6B80-0463-4563-A492-6977CC29A424}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC565569-7D9E-4BCA-A02B-8F2BC1157D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC565569-7D9E-4BCA-A02B-8F2BC1157D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC565569-7D9E-4BCA-A02B-8F2BC1157D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC565569-7D9E-4BCA-A02B-8F2BC1157D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886BA9C5-E93F-447A-B9F5-56EA379F1A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886BA9C5-E93F-447A-B9F5-56EA379F1A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886BA9C5-E93F-447A-B9F5-56EA379F1A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886BA9C5-E93F-447A-B9F5-56EA379F1A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3ED6B80-0463-4563-A492-6977CC29A424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3ED6B80-0463-4563-A492-6977CC29A424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3ED6B80-0463-4563-A492-6977CC29A424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3ED6B80-0463-4563-A492-6977CC29A424}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
