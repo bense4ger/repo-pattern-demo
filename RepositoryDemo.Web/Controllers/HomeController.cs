@@ -12,9 +12,7 @@ namespace RepositoryDemo.Web.Controllers
     {
         public IActionResult Index()
         {
-            throw new NotImplementedException();
-        }
-
-        
+            return View();
+        }   
     }
 }
